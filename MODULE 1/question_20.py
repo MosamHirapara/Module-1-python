@@ -1,0 +1,1 @@
+#Write a Python func�on to insert a string in the middle of a string
